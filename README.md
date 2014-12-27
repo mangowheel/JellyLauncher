@@ -1,0 +1,4 @@
+JellyLauncher
+=============
+
+Another Minecraft launcher.
