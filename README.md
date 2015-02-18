@@ -1,4 +1,4 @@
 JellyLauncher
 =============
 
-Another Minecraft launcher.
+Another (unfinished) Minecraft launcher.
